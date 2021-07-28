@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_07_28_184730) do
+ActiveRecord::Schema.define(version: 2021_07_28_185643) do
 
   create_table "choices", force: :cascade do |t|
     t.string "prompt"
@@ -20,6 +20,7 @@ ActiveRecord::Schema.define(version: 2021_07_28_184730) do
     t.string "path"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.string "route"
   end
 
   create_table "users", force: :cascade do |t|
