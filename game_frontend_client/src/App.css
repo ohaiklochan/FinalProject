@@ -1,4 +1,7 @@
-body {
+.App {
   background-color: rgb(0, 0, 0);
-  background-image: url('./images/digital_texture_artwork_337_by_mercurycode_dai0r05-fullview.jpg');
+  text-align: center;
+  padding: 20px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
