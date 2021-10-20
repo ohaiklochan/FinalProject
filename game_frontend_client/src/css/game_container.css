@@ -1,0 +1,44 @@
+.game {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.modal-backdrop {
+    display: none;
+}
+
+.modal {
+    background: rgba(161, 0, 0);
+}
+
+.btn{
+    white-space: normal !important;
+}
+
+
+header {
+    font-size: 78px;
+    font-family: myFirstFont;
+}
+
+p {
+    text-align: center;
+    font-size: 36px;
+    font-family: mySecondFont;
+}
+
+h1, h2, h3, h4, h5 {
+    font-size: 78px;
+    font-family: myFirstFont;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url('../fonts/MORETHANHUMAN.TTF');
+}
+
+@font-face {
+    font-family: mySecondFont;
+    src: url('../fonts/deathrattlebb_reg.ttf');
+}

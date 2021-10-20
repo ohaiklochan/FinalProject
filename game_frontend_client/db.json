@@ -1,0 +1,745 @@
+{
+    "choices": [
+        {
+            "id": "1",
+            "prompt": "Your work day has ended. You wait for the elevator. You see Cassandra, a girl that works with you on the 32nd floor of your building. You both are the last two done for the night. You talk about how hard the work day was and that the boss isn’t giving you any breaks. She agrees with you as you both enter the elevator.",
+            "choice": [
+                {
+                    "A": [
+                        "Notice the flashing lights of the floor"
+                    ]
+                },
+                {
+                    "B": [
+                        "Notice the unnerving quiet of the floor"
+                    ]
+                }
+            ],
+            "turn": "1",
+            "ending": "none",
+            "path": "left"
+        },
+        {
+            "id": "2",
+            "prompt": "You notice that the lights are flashing above you. You brush it off as nothing.",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "2",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "3",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "3",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "4",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "4",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "5",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "5",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "6",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "6",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "7",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "7",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "8",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "8",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "9",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "9",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "10",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "10",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "11",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "11",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "12",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "12",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "13",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "13",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "14",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "14",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "15",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "15",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "16",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "16",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "17",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "17",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "18",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "18",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "19",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "19",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "20",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "20",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "21",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "21",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "22",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "22",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "23",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "23",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "24",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "24",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "25",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "25",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "26",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "26",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "27",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "27",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "28",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "28",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "29",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "29",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "30",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "30",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "31",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "31",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "32",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "32",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "33",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "33",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "34",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "34",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "35",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "35",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "36",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "36",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "37",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "37",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "38",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "38",
+            "ending": "",
+            "path": ""
+        },
+        {
+            "id": "39",
+            "prompt": "",
+            "choice": [
+                {
+                    "A": [
+                        ""
+                    ]
+                },
+                {
+                    "B": [
+                        ""
+                    ]
+                }
+            ],
+            "turn": "39",
+            "ending": "",
+            "path": ""
+        }
+    ]
+}
